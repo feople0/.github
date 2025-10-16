@@ -16,6 +16,7 @@
    - 🖥 Build With
       - Langauge: TypeScript
       - Frameworks: React
+      - Deployment: Expo
 
 
 2. [eeho-server-backend](https://github.com/feople0/eeho-server-backend)
