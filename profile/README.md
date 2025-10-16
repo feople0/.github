@@ -11,8 +11,6 @@
 
 ## 📍 Repository
 
-우리 조직 프로젝트 :
-
 1. [eeho-web-frontend](https://github.com/feople0/eeho-web-frontend)
    - **설명:** Frontend 레포지토리
    - 🖥 Build With
