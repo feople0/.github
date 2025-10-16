@@ -1,3 +1,4 @@
+# 코코네스쿨 TEAM Feople
 # EEHO
 
 가족과 떨어져있어도 함께하는 일상  
@@ -7,3 +8,23 @@
 
 <img width="503" alt="Instagram story - 1" src="https://github.com/luke7231/eeho-web/assets/85508996/2f2e647e-461a-426c-ac83-0f17a0d866db">
 <img width="503" alt="image" src="https://github.com/luke7231/eeho-web/assets/85508996/b19b6447-c3c8-48e8-ab64-4bf0f6e43a11">
+
+## 📍 Repository
+
+우리 조직 프로젝트 :
+
+1. [eeho-web-frontend](https://github.com/feople0/eeho-web-frontend)
+   - **설명:** Frontend 레포지토리
+   - 🖥 Build With
+      - Langauge: TypeScript
+      - Frameworks: React
+
+
+2. [eeho-server-backend](https://github.com/feople0/eeho-server-backend)
+   - **설명:** Backend 레포지토리
+   - 🖥 Build With
+      - Langauge: Node.js
+      - Frameworks: Express.js
+      - DataBase : MongoDB Atlas
+      - Deployment: GCP App Engine, Naver Cloud Platform
+
